@@ -13,7 +13,7 @@ Bu proje, tamamen **HTML** ile geliştirilmiş bir kişisel web sitesidir.
 ---
 
 ## 🖼️ Önizleme
-![Ana Sayfa](images/anasayfa.png)
+![Ana Sayfa](images/2.png)
 
 ---
 
